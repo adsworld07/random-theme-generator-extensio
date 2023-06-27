@@ -1,12 +1,12 @@
-#Random Theme Generator Extension
+# Random Theme Generator Extension
 
 The Random Theme Generator Extension is a browser extension that generates random themes, including color palettes and design styles. It aims to assist graphic designers and artists in their creative process by providing inspiration and unique combinations for their projects.
 
-#Features
+# Features
 1. Random Color Palettes: Generate a wide range of color palettes with unique combinations of hues, shades, and tones. Experiment with different color schemes to find the perfect palette for your design.
 2. Design Style Inspiration: Discover random design styles, such as vintage, futuristic, minimalistic,and more. 
 
-#Installation
+# Installation
 
 To install the Random Theme Generator Extension, follow these steps:
 
